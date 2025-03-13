@@ -1,5 +1,13 @@
 # @vue-flow/core
 
+## 1.42.4
+
+### Patch Changes
+
+- [#1794](https://github.com/bcakmakoglu/vue-flow/pull/1794) [`e0bb46e`](https://github.com/bcakmakoglu/vue-flow/commit/e0bb46e9ee6c67737e40d154bbd8eae5cdde0cce) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Use null as fallback id for edge source handle
+
+- [#1793](https://github.com/bcakmakoglu/vue-flow/pull/1793) [`854f909`](https://github.com/bcakmakoglu/vue-flow/commit/854f909ac0e8188eeff4ba21bab8d5017eada5f7) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Defer connection lookup on edge update
+
 ## 1.42.3
 
 ### Patch Changes
